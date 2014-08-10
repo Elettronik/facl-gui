@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/translation/it">
+        <file alias="facl-guit_it.qm">translation/facl-gui_it.qm</file>
+    </qresource>
+</RCC>
